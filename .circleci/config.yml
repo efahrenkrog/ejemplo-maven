@@ -32,4 +32,4 @@ jobs:
 workflows:
   hello-world-usach-workflow-circleci:
     jobs:
-      - primerCiclo:
+      - primerCiclo
