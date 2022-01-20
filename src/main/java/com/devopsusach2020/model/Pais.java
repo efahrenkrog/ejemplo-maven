@@ -2,6 +2,7 @@ package com.devopsusach2020.model;
 
 import java.io.Serializable;
 
+
 public class Pais implements Serializable{
 
 	/**
@@ -59,5 +60,6 @@ public class Pais implements Serializable{
 	}
 	public void setDate(String date) {
 		this.date = date;
-	}	
+	}
+
 }
